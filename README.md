@@ -14,7 +14,6 @@
 <h3>Бендер. Умная голова</h3>
 <p>Голосовая колонка в виде головы робота Бендера из м/ф Футурама</p>
 <ul>
-  [Текст ссылки](https://www.example.com)
   <li>Ссылка на GitHub: [Проект 1](https://github.com/roboticsRays/benderSmartHead)</li>
   <li>Ссылка на Telegram: [Telegram пост](https://t.me/roboticsRays/6)</li>
   <li>Ссылка на YouTube: [YouTube видео](https://www.youtube.com/watch?v=9mzHWacvpJI&list=PLn-bR8PjqtYwi0qEbphlJU5_H2lbBfu7F)</li>
