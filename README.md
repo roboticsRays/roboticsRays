@@ -1,7 +1,7 @@
 <!-- Заголовок -->
 <h1 align="center">Добро пожаловать в Лучи Робототехники!</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV6OTlsc2p4NTd2NnRpdzZ4dHZnYXgycWk0aWsweTI1NnQxeDJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4SS63h7k5umY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhjNWY4OWNuMWxxeHZ2N3J0ejl5OXcxamI5YzR3eTFxZTlmcm9reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2CV88JdrUCOYT5Ec8j/giphy.gif" width="100"/>
 </div>
 
 <!-- Интро -->
