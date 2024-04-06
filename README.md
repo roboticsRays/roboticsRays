@@ -1,5 +1,8 @@
 <!-- Заголовок -->
 <h1 align="center">Добро пожаловать в Лучи Робототехники!</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGI4N2s1eHBxZ253ZHJsNnZpOGQzZmV4NnQ1NGp5MTgycXFld2h0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif" width="100"/>
+</div>
 
 <!-- Интро -->
 <p align="center">Добрый день, уважаемые телезрители! Здесь вы сможете найти исходные файлы открытым проектам</p>
@@ -18,9 +21,7 @@
   <li>Ссылка на Telegram: [Telegram пост](https://t.me/roboticsRays/6)</li>
   <li>Ссылка на YouTube: [YouTube видео](https://www.youtube.com/watch?v=9mzHWacvpJI&list=PLn-bR8PjqtYwi0qEbphlJU5_H2lbBfu7F)</li>
 </ul>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGI4N2s1eHBxZ253ZHJsNnZpOGQzZmV4NnQ1NGp5MTgycXFld2h0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif" width="100"/>
-</div>
+
 
 
 <!-- Разделительная линия -->
