@@ -3,13 +3,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhjNWY4OWNuMWxxeHZ2N3J0ejl5OXcxamI5YzR3eTFxZTlmcm9reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2CV88JdrUCOYT5Ec8j/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<!-- <div id="badges">
 <center>
   <a href="https://www.youtube.com/@lightrobo_tv">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </center>
-</div>
+</div> -->
 
 <!-- Интро -->
 <p align="center">Добрый день, уважаемые телезрители! Здесь вы сможете найти исходные файлы открытым проектам</p>
